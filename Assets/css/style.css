@@ -2,7 +2,7 @@ body {
     font-family: 'Nunito Sans';
     margin: 30px;
     padding: 30px;
-     }
+}
 
 button {
     color: white;
@@ -22,16 +22,6 @@ div {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-}
-
-.img1 {
-    display: block;
-
-}
-
-.img2 {
-    position: relative;
-
 }
 
 .orientation {
@@ -63,3 +53,10 @@ div {
 
 #authorr {
     border: 1px solid grey;
+}
+
+.img1{
+    position:relative;
+      margin-right: 0;
+}
+
