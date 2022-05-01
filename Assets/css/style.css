@@ -1,0 +1,30 @@
+div{
+    padding-right: 10 px;
+    display: flex;
+}
+
+.div-enroll{
+    display:block;
+}
+.nav-links{
+    display:flex;
+
+    align-items:flex-end;
+    justify-content: space-between;
+}
+.img1{
+    display: flexbox;
+}
+.orientation{
+    display: flex;
+}
+.board-meeting{
+    display:flex;
+}
+.graduation{
+    display:inline-block;
+}
+.technical-mentors{
+    display:inline-block;
+}
+
