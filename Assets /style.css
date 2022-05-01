@@ -18,3 +18,8 @@ div{
     .div8{
         display: inline;
     }
+
+    #author{
+        text-align: center;
+        border: 1px solid gray;
+    }
