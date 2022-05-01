@@ -1,30 +1,65 @@
-div{
+body {
+    font-family: 'Nunito Sans';
+    margin: 30px;
+    padding: 30px;
+     }
+
+button {
+    color: white;
+    background-color: #ec4067;
+}
+
+div {
     padding-right: 10 px;
     display: flex;
 }
 
-.div-enroll{
-    display:block;
+.div-enroll {
+    display: block;
 }
-.nav-links{
-    display:flex;
 
-    align-items:flex-end;
+.nav-links {
+    display: flex;
+    align-items: flex-end;
     justify-content: space-between;
 }
-.img1{
-    display: flexbox;
-}
-.orientation{
-    display: flex;
-}
-.board-meeting{
-    display:flex;
-}
-.graduation{
-    display:inline-block;
-}
-.technical-mentors{
-    display:inline-block;
+
+.img1 {
+    display: block;
+
 }
 
+.img2 {
+    position: relative;
+
+}
+
+.orientation {
+    display: flex;
+}
+
+.board-meeting {
+    display: flex;
+}
+
+.graduation {
+    display: inline-block;
+}
+
+.technical-mentors {
+    display: flex;
+    flex-direction: row;
+}
+
+#xxlarge {
+    font-size: xx-large;
+    color: #ec4067;
+}
+
+#cool {
+    color: #ec4067;
+    font-size: xx-large;
+}
+
+#authorr {
+    border: 1px solid grey;
