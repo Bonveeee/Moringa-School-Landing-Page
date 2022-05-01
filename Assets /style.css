@@ -4,7 +4,15 @@ body{
 
 div{
     display:flex;
+    padding: 10px;
+}
+.div2{
+    display:block;
+
 }
  button{
      color: #ec4067;
  }
+ .img1{
+     display:flex;
+    }
